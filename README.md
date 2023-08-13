@@ -1,7 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Tasha! <br/><a ><a href="https://www.linkedin.com/in/tasha-elysee/">Cybersecurity Professional</a>, 
+
+<h2>Certifications:</h2>
+
+- <b>Security + Certified </b> 
+  - [Certificate here](https://clipchamp.com/watch/7vHbVKSrgSx)
+- <b>Network + Certified </b> 
+  - [Certificate here]()
+
+<h2>Cyber Security Projects & Home labs:</h2>
+
+- <b>How I created my own SIEM environment</b> 
+  - [SIEM Deployment](https://github.com/joshmadakor1/Algorithms-Practice) 
+
+
+
+
+<h2>Connect with me on LinkedIn:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/tasha-elysee/
 
 <!--
-**Tashaelysee25/Tashaelysee25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
